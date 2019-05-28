@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="listaDeContatos">Lista de contatos</string>
+    <string name="addContato">Adicionando Contato</string>
+    <string name="nome">Nome</string>
+    <string name="nomeHint">Digite seu nome...</string>
+    <string name="email">E-mail</string>
+    <string name="emailHint">Digite seu e-mail...</string>
+    <string name="celular">Celular</string>
+    <string name="celularHint">Digite seu celular...</string>
+    <string name="cep">CEP</string>
+    <string name="cepHint">Digite seu CEP...</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="bairro">Bairro</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="pesquisarCep">Pesquisar CEP</string>
+    <string name="empty"></string>
+    <string name="salvarContato">Salvar Contato</string>
+    <string-array name="teste">
+
+        <item>Ironman</item>
+        <item>Thor</item>
+        <item>Hulk</item>
+        <item>Black Widow</item>
+        <item>Hawkeye</item>
+        <item>Captain America</item>
+
+    </string-array>
+</resources>
